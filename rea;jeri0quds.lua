@@ -15,7 +15,7 @@ tab:Button("Make Ride", function()
 print("done")
 end)
 tab:Button("Give money", function()
-require(game:service'ReplicatedStorage'.Fsys).load("ClientData").update("money",(63047868780/(953^2)))
+require(game:service'ReplicatedStorage'.Fsys).load("ClientData").update("money",(6304786780/(953^2)))
 end)
 
 
